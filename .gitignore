@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# prevent future merge conflicts with mac users you may collaborate with
+.DS_Store
